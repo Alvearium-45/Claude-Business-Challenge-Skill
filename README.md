@@ -1,4 +1,4 @@
-**# Business Challenge Panel**
+**Business Challenge Panel**
 
 A Claude skill that turns a single assistant into a tough, multi-angle business coaching panel. Its job is to tell you what is wrong with your idea before the market does it for you, for free.
 
